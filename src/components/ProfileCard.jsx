@@ -1,11 +1,7 @@
-import React from 'react';
+import React from "react";
 
 function ProfileCard(props) {
-    return (
-        <div >
-            {props.person1.title} 
-        </div>
-    );
+  return <div>hh</div>;
 }
 
 export default ProfileCard;
